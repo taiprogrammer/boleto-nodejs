@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/taiprogrammer/boleto-nodejs/issues"
   },
-  "homepage": "https://github.com/taiprogrammer/boleto-nodejs#readme"
+  "homepage": "https://github.com/taiprogrammer/boleto-nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0"
+  }
 }

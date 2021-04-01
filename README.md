@@ -10,6 +10,7 @@
 # Como utilizar
 * Clone o projeto no seu computador
 * Abra o projeto em algum terminal
+* Rode o seguinte comando: yarn install
 * Rode o seguinte comando: node src/server.js
-* Chame no seu navegador pelo localhost:3000
+* Chame no seu navegador pelo localhost:3000 <br>
 PS: se tudo ocorrer corretamente, aparecerá no browser que o arquivo foi gerado, verifique dentro da pasta raiz deste mesmo projeto se o arquivo em pdf foi gerado

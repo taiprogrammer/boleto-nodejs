@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    align-items: center;
+    /* background-color: aliceblue; */
+    display: block;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+}
+
+/* div.box-inline {
+    display: flex;
+    flex-direction: row;
+} */
+
+header.bank-codebank-code {
+    align-items: center;
+    /* background-color: tomato; */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+section.bank {
+    align-items: center;
+    /* background-color: teal; */
+    border-bottom: 2px solid #000;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+
+img.logo {
+    height: 50px;
+    width: 50px;
+}
+
+div.box-codebank {
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+h2.codebank {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+p.code {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+main {
+    align-items: center;
+    /* background-color: tomato; */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+section {
+    align-items: center;
+    /* background-color: teal; */
+    display: flex;
+    justify-content: center;
+}
+
+div.where-to-pay {
+    border-bottom: 2px solid #000;
+    width: 100%;
+}
+
+div.due-mate {
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+    width: 100%;
+}
+
+div.recipient {
+    border-bottom: 2px solid #000;
+    width: 100%;
+}
+
+div.agency {
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    width: 100%;
+}
+
+div.doc {
+    border-bottom: 2px solid #000;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+div.number {
+    border-right: 2px solid #000;
+}
+
+div.type {
+    border-right: 2px solid #000;
+}
+
+div.accpt {
+    /* border-right: 2px solid #000; */
+}
+
+div.proc {
+    border-left: 2px solid #000;
+}
+
+div.date {
+    /* border-right: 2px solid #000; */
+    /* width: 100%; */
+}
+
+div.our-number {
+    border-bottom: 2px solid #000;
+    /* border-left: 2px solid #000; */
+    height: 100%;
+    width: 100%;
+}
+
+div.wallet {
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+}
+
+div.coin {
+    border-right: 2px solid #000;
+}
+
+div.qtt {
+    border-right: 2px solid #000;
+}
+
+div.price {
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+    width: 100%;
+}
+
+div.discount {
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+    width: 100%;
+}
+
+div.other {
+    border-bottom: 2px solid #000;
+    /* border-left: 2px solid #000; */
+    width: 100%;
+}
+
+div.traffic-ticket {
+    border-bottom: 2px solid #000;
+    margin-top: 16px;
+    width: 100%;
+}
+
+div.charged {
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    width: 100%;
+}
+
+div.go {
+    margin-top: 16px;
+}
+
+div.you {
+    border-left: 2px solid #000;
+}
+
+div.fees {
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    width: 100%;
+}
+
+div.payer {
+    border-bottom: 2px solid #000;
+    width: 100%;
+}
+
+section.just {
+    margin-top: 18px;
+}
+
+section.just-you {
+    border-right: 2px solid #000;
+}
+
+section.side-one {
+    /* border-right: 2px solid #000; */
+    /* border-bottom: 2px solid #000; */
+    width: 40%;
+}
+
+section.side-two {
+    height: 100%;
+    width: 40%;
+}
+
+section.all {
+    width: 80%;
+}
+
